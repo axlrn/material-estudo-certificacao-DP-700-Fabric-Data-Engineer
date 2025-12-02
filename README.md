@@ -109,5 +109,7 @@ Este material é aberto para ajudar outros profissionais a se certificarem.
 
 ## ✨ Autor
 **Renan Oliveira Andrade (@axlrn)**  
-https://linktr.ee/axlrn
+
+🔗 https://linktr.ee/axlrn
+
 Repositório criado para estudo pessoal e compartilhamento público.  
